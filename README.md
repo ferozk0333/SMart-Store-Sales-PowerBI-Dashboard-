@@ -21,9 +21,9 @@
 	2. Data Analysis
 	Provide valuable insights to business entities regarding the effectiveness of their sales strategies 
 	through visualization and charts.
-	 3. Sales Forecasting with 90% Confidence Interval
+	3. Sales Forecasting with 90% Confidence Interval
 	Leverage historical data and apply time series analysis to generate sales forecast for the next 15 days
-	 4. Actionable insights and recommendations
+	4. Actionable insights and recommendations
 	The end goal is to share valuable insights and actionable information that can drive strategic decision-making
 	and support the supermarket's growth, efficiency, and customer satisfaction goals.
 
