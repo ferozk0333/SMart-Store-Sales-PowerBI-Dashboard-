@@ -1,5 +1,11 @@
 # SMart-Store-Sales-PowerBI-Dashboard-
 
+### Project Demo
+
+
+https://github.com/user-attachments/assets/0042fa7d-a4e9-4b85-a4ac-7ee39ffe615e
+
+
 ### 1. Project Objective
 	To successfully contribute to SMart Store's business by utilizing the past 2 years' data and applying
 	data analysis techniques, specifically focusing on time series analysis, to provide valuable
